@@ -1,1 +1,1 @@
-This is DevOps -Git Sessions
+This is DevOps -Git Session
