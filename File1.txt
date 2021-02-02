@@ -1,3 +1,3 @@
 This is DevOps -Git Session
-This is Pull Example
+This is for Pull Example
 This is Fetch Example
