@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Dev1 are File --002
+=======
+Dev1 not File --002
+>>>>>>> 5c62ac78b8104f76bfce378367aba9ea1c51ff5e
 
